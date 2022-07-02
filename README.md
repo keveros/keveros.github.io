@@ -9,6 +9,10 @@
 >一个由wimbuilder2定制的PE，基于win10 1909 x64。安全，极速，体积小。
 
 <a href="/404.html" title="404">前往</a>
+
+<h2>4.kever动漫</h2>
+
+<h2>kever音乐</h2>
 <h2>3.关于我们</h2>
 站长:挠子
 
