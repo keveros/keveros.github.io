@@ -13,7 +13,7 @@
 
 <h2>3.kever音乐</h2>
 
-<a href="/404.html" title="404">前往</a>
+<a href="/mu.html">前往</a>
 
 <h2>4.63net</h2>
 
