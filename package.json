@@ -1,0 +1,73 @@
+{
+  "name": "alist-web",
+  "version": "",
+  "author": {
+    "name": "Xhofe",
+    "email": "i@nn.ci",
+    "url": "https://www.nn.ci"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alist-org/alist-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xhofe/alist/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://alist-doc.nn.ci",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^1.8.5",
+    "@chakra-ui/theme-tools": "^1.3.6",
+    "@choc-ui/paginator": "^3.4.0",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@monaco-editor/react": "^4.4.4",
+    "@xhofe/react-viewer": "^3.2.3",
+    "artplayer": "^4.4.3",
+    "artplayer-plugin-danmuku": "^4.4.6",
+    "axios": "^0.26.0",
+    "flv.js": "^1.6.2",
+    "framer-motion": "^5.5.6",
+    "hls.js": "^1.1.5",
+    "i18next": "^21.6.12",
+    "mitt": "^3.0.0",
+    "monaco-editor": "^0.33.0",
+    "react": "^17.0.0",
+    "react-contexify": "^5.0.0",
+    "react-dom": "^17.0.0",
+    "react-hot-toast": "^2.2.0",
+    "react-i18next": "^11.15.5",
+    "react-icons": "^4.3.1",
+    "react-jinke-music-player": "^4.24.2",
+    "react-markdown": "^7.1.2",
+    "react-reader": "^0.20.6",
+    "react-router-dom": "^5.2.1",
+    "react-spinners": "^0.11.0",
+    "rehype-highlight": "^5.0.2",
+    "rehype-raw": "^6.1.1",
+    "remark-gfm": "^3.0.1",
+    "streamsaver": "^2.0.6",
+    "ts-md5": "^1.2.11"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.11",
+    "@types/react-router-dom": "^5.1.8",
+    "@types/streamsaver": "^2.0.1",
+    "@vitejs/plugin-legacy": "^1.8.1",
+    "@vitejs/plugin-react-refresh": "^1.3.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.7.10",
+    "vite-plugin-dynamic-publicpath": "^1.1.1",
+    "vite-plugin-rewrite-all": "^0.1.2"
+  }
+}
