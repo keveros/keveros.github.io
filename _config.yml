@@ -5,3 +5,5 @@ server：
 	port：“5244”
 	search:false
 	static:dist
+
+theme: jekyll-theme-cayman
